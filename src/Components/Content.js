@@ -62,7 +62,7 @@ const Content = () => {
         width: isPortrait ? "90%" : "70%",
       }}
     >
-      <h1>Crash Landing</h1>
+      <h1>Banished Communication</h1>
       <p>
         Master Chief, while exploring Installation 07, intercepted Banished
         communications, but they're too garbled and encrypted to make sense. And
