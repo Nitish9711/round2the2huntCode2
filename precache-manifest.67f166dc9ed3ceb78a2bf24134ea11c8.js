@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9f088e3ab79e7c6c674a6729ff46e89",
+    "revision": "00a0ecafce41bbaaf0b5d43fe7275bcd",
     "url": "/round2the2huntCode2/index.html"
   },
   {
